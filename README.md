@@ -4,10 +4,15 @@
 <!--
 // Create an array of the links to choose from:
 var links = new Array();
-links[0] = "http://www.google.com/";
-links[1] = "http://www.bing.com/";
-links[2] = "http://www.yahoo.com/";
-links[3] = "http://www.apple.com/";
+links[0] = "https://wa.me/573107403633";
+links[1] = "https://wa.me/message/GQGJ3QYN5BIJA1";
+links[2] = "https://wa.me/message/FABSZSA36XVJB1";
+links[3] = "https://wa.me/message/QIPT7N4JHK36C1";
+links[4] = "https://wa.me/message/ALFBH3D4534UB1";
+links[5] = "https://wa.me/message/UV7MHOEGOW37D1";
+links[6] = "https://wa.me/message/DRI563Q6O3FQP1";
+links[7] = "https://wa.me/message/JRGA7PDJBIM2F1";
+
 
 function openLink() {
   // Chooses a random link:
